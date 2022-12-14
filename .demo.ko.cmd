@@ -1,0 +1,1 @@
+cmd_/home/fajar/Documents/hw2/demo.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/fajar/Documents/hw2/demo.ko /home/fajar/Documents/hw2/demo.o /home/fajar/Documents/hw2/demo.mod.o;  true
